@@ -1,8 +1,8 @@
-# 📦 Zaroori libraries import
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+streamlit
+pandas
+matplotlib
+seaborn
+
 
 # 🧾 Page settings
 st.set_page_config(page_title="Student Marks Analysis", layout="centered")
