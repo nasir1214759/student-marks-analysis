@@ -1,12 +1,7 @@
-streamlit
-pandas
-matplotlib
-seaborn
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 # 🧾 Page Configuration
 st.set_page_config(page_title="📊 Student Marks Analysis", layout="centered")
 st.title("📊 Student Marks Analysis")
